@@ -1,0 +1,29 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+*.env
+
+# Claude
+.claude/
+
+# TouchDesigner (for later)
+touchdesigner/Backup/
+*.toe.bak
+*.tox.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
